@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  TakeIT
-//
-//  Created by 小田桐健太郎 on 2024/10/25.
-//
 
 import UIKit
 
